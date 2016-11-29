@@ -33,6 +33,7 @@ source 'https://gem.fury.io/eventide/' do
   gem 'entity_store'
   gem 'event_source'
   gem 'event_source-postgres'
+  gem 'eventide-postgres'
   gem 'identifier-uuid'
   gem 'initializer'
   gem 'log'
