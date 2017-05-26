@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.3.3'
 
   s.add_runtime_dependency 'evt-entity_store'
-  s.add_runtime_dependency 'evt-messaging-postgres'
   s.add_runtime_dependency 'evt-consumer-postgres'
   s.add_runtime_dependency 'evt-entity_snapshot-postgres'
 end
