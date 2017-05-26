@@ -17,5 +17,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'evt-entity_store'
   s.add_runtime_dependency 'evt-messaging-postgres'
+  s.add_runtime_dependency 'evt-consumer-postgres'
   s.add_runtime_dependency 'evt-entity_snapshot-postgres'
 end
