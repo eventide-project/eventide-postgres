@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = 'eventide-postgres'
-  s.version = '0.2.0.0'
+  s.version = '0.2.0.1'
   s.summary = 'Event-Oriented Autonomous Services Toolkit'
   s.description = ' '
 
