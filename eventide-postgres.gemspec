@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.name = 'eventide-postgres'
   s.version = '0.2.0.2'
-  s.summary = 'Event-Oriented Autonomous Services Toolkit'
+  s.summary = 'Event-Sourced Autonomous Services Toolkit'
   s.description = ' '
 
   s.authors = ['The Eventide Project']
