@@ -1,6 +1,6 @@
 # eventide-postgres
 
-Event-Sourced Autonomous Services
+Event-Sourced Autonomous Services Toolkit
 
 ## Documentation
 
