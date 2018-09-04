@@ -1,6 +1,10 @@
 # eventide-postgres
 
-Event-Oriented Autonomous Services Toolkit
+Evented-Sourced Autonomous Services
+
+## Documentation
+
+See the [Eventide documentation site](http://docs.eventide-project.org) for more information, examples, and user guides.
 
 ## License
 
