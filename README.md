@@ -1,6 +1,22 @@
-# eventide-postgres
+# Eventide
 
-Event-Sourced Autonomous Services Toolkit
+Event sourcing, evented microservices, and message-based applications toolkit for the [Postgres message store](https://github.com/eventide-project/postgres-message-store).
+
+## Features
+
+- Event streams
+- Pub/Sub
+- Messaging
+- Consumer groups
+- Optimistic concurrency
+- Message store
+- Entity projection
+- Entity caching and snapshotting
+- Consumers and handlers
+- Host server
+- Administration tools
+- Reports
+- and [more](http://docs.eventide-project.org)...
 
 ## Documentation
 
