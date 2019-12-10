@@ -1,22 +1,21 @@
+![Message DB](http://docs.eventide-project.org/eventide-icon-100.png)
+
 # Eventide
 
-Event sourcing, evented microservices, and message-based applications toolkit for the [Postgres message store](https://github.com/eventide-project/postgres-message-store).
+Pub/Sub, event sourcing, evented microservices, and message-based applications toolkit built for the [Message DB](https://github.com/message-db/message-db) back end.
 
 ## Features
 
-- Event streams
 - Pub/Sub
+- Evented Services
+- Event Sourcing
+- Streams
 - Messaging
-- Consumer groups
-- Optimistic concurrency
-- Message store
-- Entity projection
-- Entity caching and snapshotting
-- Consumers and handlers
+- Parallel processing
 - Host server
 - Administration tools
 - Reports
-- and [more](http://docs.eventide-project.org)...
+- and [more...](http://docs.eventide-project.org)
 
 ## Documentation
 
